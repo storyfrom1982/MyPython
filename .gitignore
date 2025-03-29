@@ -1,6 +1,9 @@
-#Python 虚拟环境目录
+# Python 虚拟环境目录
 **/.venv
 **/venv
+
+# vscode 配置文件目录
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
